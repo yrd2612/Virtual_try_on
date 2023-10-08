@@ -1,3 +1,2 @@
 # Virtual_try_on  
-Add your name below this  
-Anirudh Shamra
+Add your name below this
